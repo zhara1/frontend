@@ -1,0 +1,40 @@
+body {
+	background-color: #d3deec;
+}
+.main {
+	text-align: center;
+	background-color: white; 
+	border-radius: 20px;
+	width: 320px;
+	height: 520px;
+	margin: auto;
+	margin-top: 120px;
+
+}
+body img {
+	width: 287px;
+	height: 287px;
+	border-radius: 10px;
+	margin-top: 20px;
+}
+.main p {
+	text-align: center;
+	width: 242px;
+	margin: auto;
+	color: #9699a0;
+
+}
+.main h3 {
+	text-align: center;
+	width: 257px;
+	margin: auto;
+	padding: 15px;
+	font-family: sans-serif;
+}
+.footer a {
+	font-size: 11px;
+}
+.footer p {
+	font-size: 11px;
+	margin-top: 20px;
+}
